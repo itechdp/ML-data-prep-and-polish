@@ -2,7 +2,7 @@ Absolutely! Let's sprinkle in a few more emojis for an extra touch of flair:
 
 ---
 
-# DataPrepMaster 🛠️📊
+# ML Data prep and Polish 🛠️📊
 
 Welcome to DataPrepMaster, your ultimate toolkit for mastering the art of data preprocessing! 🚀
 
