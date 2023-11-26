@@ -1,6 +1,6 @@
 ---
 
-# ML Data prep and Polish 🛠️📊
+# ML Data Prep and Polish 🛠️📊
 
 Welcome to DataPrepMaster, your ultimate toolkit for mastering the art of data preprocessing! 🚀
 
